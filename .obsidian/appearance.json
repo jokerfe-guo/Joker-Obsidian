@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Border",
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "theme"
+  ],
+  "theme": "obsidian",
+  "translucency": true,
+  "monospaceFontFamily": "Fira Code",
+  "interfaceFontFamily": "Monaco"
+}
