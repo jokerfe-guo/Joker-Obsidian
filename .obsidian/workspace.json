@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "7691d71f04b05fa3",
+        "id": "c950dc757eb2d6a4",
         "type": "tabs",
         "children": [
           {
-            "id": "d52443dbc0ce37b4",
+            "id": "fd594c148f32b9aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI学习/Harness design for long-running application development.md",
+                "file": "日报/2026-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Harness design for long-running application development"
+              "title": "2026-04"
+            }
+          },
+          {
+            "id": "ec0560b9836cf5c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端/02-JavaScript_ES6/设计模式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "设计模式"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +76,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI学习/Harness design for long-running application development.md",
+                "file": "日报/2026-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Harness design for long-running application development 的反向链接列表"
+              "title": "2026-04 的反向链接列表"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI学习/Harness design for long-running application development.md",
+                "file": "日报/2026-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Harness design for long-running application development 的出链列表"
+              "title": "2026-04 的出链列表"
             }
           },
           {
@@ -156,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "测试.md",
+                "file": "日报/2026-04.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "测试 的大纲"
+              "title": "2026-04 的大纲"
             }
           },
           {
@@ -174,13 +189,109 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "8165e171f7b309cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "日报/2026-04.md"
+              },
+              "icon": "lucide-info",
+              "title": "2026-04的笔记属性"
+            }
+          },
+          {
+            "id": "75fcfc8c02242b60",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/Users/guohaohao/Desktop/Joker's Obsidian",
+                  "focus": false,
+                  "profile": {
+                    "args": [
+                      "--login"
+                    ],
+                    "executable": "/bin/zsh",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "darwin": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": null
+                }
+              },
+              "pinned": true,
+              "icon": "terminal",
+              "title": "终端：takumi"
+            }
+          },
+          {
+            "id": "2e4a6df6b93359b5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/Users/guohaohao/Desktop/Joker's Obsidian",
+                  "focus": false,
+                  "profile": {
+                    "args": [
+                      "--login"
+                    ],
+                    "executable": "/bin/zsh",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "darwin": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": null
+                }
+              },
+              "pinned": true,
+              "icon": "terminal",
+              "title": "终端：guohaohao@guohaohaodeMacBook-Pro-3:~/Desktop/Joker's Obsidian"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 454.5
+    "width": 514.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,24 +308,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d52443dbc0ce37b4",
+  "active": "2e4a6df6b93359b5",
   "lastOpenFiles": [
-    "AI学习/Harness design for long-running application development.md",
-    "AI学习/Drawing 2026-03-28 19.25.53.excalidraw.md",
-    "Drawing 2026-03-28 19.25.32.excalidraw.md",
-    "未命名.md",
-    "AI学习",
-    "测试.md",
-    "YD",
-    "未命名.canvas",
-    "未命名.base",
-    "未命名 1.base",
-    "Untitled 10.base",
-    "Untitled 9.base",
-    "Untitled 11.base",
-    "Untitled 8.base",
-    "Untitled 7.base",
-    "Untitled 6.base",
-    "Welcome.md"
+    "前端/02-JavaScript_ES6/设计模式.md",
+    "前端/02-JavaScript_ES6/模块化.md",
+    "前端/02-JavaScript_ES6/类型与判断.md",
+    "前端/02-JavaScript_ES6/类.md",
+    "前端/02-JavaScript_ES6/继承.md",
+    "前端/02-JavaScript_ES6/闭包.md",
+    "前端/01-HTML_CSS/CSS骚操作之滤镜.md",
+    "前端/01-HTML_CSS/CSS布局.md",
+    "前端/01-HTML_CSS/CSS绘制特殊图形.md",
+    "前端/01-HTML_CSS/css.md",
+    "前端/01-HTML_CSS/栅格系统布局 less和css属性选择器.md",
+    "前端/00-项目总览/README.md",
+    "前端/15-工具沉淀_问题总结/joker-cli.md",
+    "前端/15-工具沉淀_问题总结/工具类.md",
+    "前端/14-前端探索/Serverless.md",
+    "前端/13-面试总结/js继承的方式.md",
+    "前端/13-面试总结/ 变量对象和活动对象.md",
+    "前端/13-面试总结/js api.md",
+    "前端/13-面试总结/前端开发编写高质量Javascript代码的基本要点.md",
+    "前端/13-面试总结/判断数组和assign,create.md",
+    "前端/13-面试总结/generator函数.md",
+    "前端/13-面试总结/JavaScript标准库.md",
+    "前端/13-面试总结/公司面试题.md",
+    "前端/13-面试总结/检验你是否真懂 JS 的8个问题.md",
+    "前端/13-面试总结/面向对象编程.md",
+    "前端/13-面试总结/垂直居中.md",
+    "前端/15-工具沉淀_问题总结",
+    "前端/14-前端探索",
+    "前端/13-面试总结",
+    "前端/12-图形图像_Canvas_Wasm",
+    "前端/11-手写题",
+    "前端/10-算法",
+    "前端/09-性能优化",
+    "前端/08-工程化_构建_Git",
+    "前端/07-Vue",
+    "前端/06-React",
+    "图片/Gemini_Generated_Image_v3hed4v3hed4v3he.png",
+    "图片/Gemini_Generated_Image_1drrh31drrh31drr.png",
+    "图片/Gemini_Generated_Image_ryky3qryky3qryky.png",
+    "图片/Gemini_Generated_Image_hpqnsahpqnsahpqn.png",
+    "图片/Gemini_Generated_Image_dzj6sndzj6sndzj6.png",
+    "图片/Gemini_Generated_Image_1ymxpb1ymxpb1ymx.png",
+    "图片/Gemini_Generated_Image_ed3spxed3spxed3s.png",
+    "图片/Gemini_Generated_Image_lqt413lqt413lqt4.png",
+    "图片/Gemini_Generated_Image_7gzcgf7gzcgf7gzc (1).png",
+    "图片/Gemini_Generated_Image_b1xo08b1xo08b1xo.png",
+    "未命名.canvas"
   ]
 }
